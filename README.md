@@ -1,1 +1,1 @@
-# MyPolinom
+# MyPolynom
